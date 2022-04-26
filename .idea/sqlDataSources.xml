@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="3e30e5f9-1e9f-4f15-adb1-0b80bcec2bdd" />
+          <option name="name" value="StruggleDb" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Downloads/StruggleDb.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
